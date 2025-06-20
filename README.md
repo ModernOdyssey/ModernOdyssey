@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the MERN Stack
 - 💞️ I’m not looking to collaborate right now but will be there soon 😉
 - 📫 How to reach me ... usually through a traveling pigeon 🕊 
-- ⚡ Fun fact: ... P=NP
+- ⚡ Fun fact: ... P=NP (not a fact but a deep wish 😭)
 
 <!---
 ModernOdyssey/ModernOdyssey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
